@@ -36,7 +36,7 @@ A user reports they are unable to log in. The system returns a message: "Your pa
 Open Server Manager → go to Tools → select Active Directory Users and Computers. Once launched, go to the top menu and select View → Advanced Features.<br>
 <br>
 - Accesses full administrative controls and advanced tabs.
-- Enables visibility into additional tabs like "Attribute Editor" which are essential for diagnosing account issues.
+- Enables visibility into additional tabs like "Attribute Editor & Object" which are essential for diagnosing account issues.
 - Allows discovery of the user’s full OU path and hidden attributes.<br>
 <br>
 <img src="https://github.com/user-attachments/assets/9ca3f486-72f6-4d6c-ac79-b6c3710bf6fc" width="1000"><br>
